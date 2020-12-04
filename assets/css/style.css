@@ -10,6 +10,7 @@ li {
 li a {
     text-decoration: none;
     color: black;
+
 }
 
 section.satu {
@@ -56,15 +57,16 @@ section.dua {
 }
 
 .card button {
-    padding: 5px;
+    padding: 10px;
     background-color: red;
     border-radius: 30px;
     color: white;
+    margin-top: 10px;
 }
 
 
 .button button {
-    padding: 5px;
+    padding: 10px;
     background-color: red;
     border-radius: 30px;
     color: white;
@@ -92,6 +94,7 @@ section.Tiga h1 {
 section.Tiga img.dapat {
     width: 60px;
     height: 30px;
+    margin-top: 10px;
 }
 
 .contents {
